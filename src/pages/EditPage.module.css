@@ -1,0 +1,21 @@
+.menu-li{
+    display: block;
+}
+.my-btn{
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    border-radius: 25px;
+    text-align: center;
+    color: #fff;
+
+}
+.pic{
+
+    margin-left: 25px;
+    margin-top: 10px;
+}
